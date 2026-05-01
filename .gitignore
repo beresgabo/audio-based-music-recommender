@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+dataset/
+*.mp3
+*.wav
+*.zip
+MP3/
+Models/
+*.npy
