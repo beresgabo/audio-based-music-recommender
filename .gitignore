@@ -8,3 +8,5 @@ dataset/
 MP3/
 Models/
 *.npy
+mp3_to_uri_mapping.json
+valid_cnn_dataset.json
